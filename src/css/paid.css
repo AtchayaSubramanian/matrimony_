@@ -1,0 +1,53 @@
+/* .artt
+{
+  background-repeat: no-repeat;
+  width: 1000px;
+} */
+.art {
+  max-width: 800px;
+  background-image: url("https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&w=600");
+  /* background-image: url("https://images.pexels.com/photos/10377281/pexels-photo-10377281.jpeg?auto=compress&cs=tinysrgb&w=600");  */
+
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .a {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .b {
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+  
+  .c {
+    font-size: 18px;
+    margin-bottom: 6px;
+  }
+  
+  .d {
+    margin-bottom: 12px;
+  }
+  
+  .e {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  /* li {
+    margin-bottom: 6px;
+  }
+  
+  .link {
+    color: #007bff;
+    text-decoration: underline;
+  }
+  
+  .link:hover {
+    color: #0056b3;
+  }
+   */
+  

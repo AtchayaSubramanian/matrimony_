@@ -1,0 +1,45 @@
+.col-sm5{
+  background : "grey";
+  text-align: center;
+  border-radius: 20px;
+  width: 30%;
+  float: left;
+  background-color: rgb(113, 113, 219);
+  width: 300px;
+  height: 400px;
+  margin-left: 60px;
+}
+.bull{
+  background: url("");
+   background-size: cover;
+   height: 100vh;
+   overflow: auto;
+}
+.row5{
+  margin-top: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-img-top5{
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}
+.sign
+{
+  /* padding: 10px 40px 10px 40px; */
+  margin-right: 4px;
+  margin-top: 20px; 
+  padding: 2px;
+  position: center;
+  padding-left: 10px;
+  padding-right: 10px;
+   font-size: large;
+  margin: none; 
+  /* background-image: -o-linear-gradient(brown,green) */
+  /* background-color: rgb(51, 172, 51); */
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  background-image: linear-gradient(to right, #702e2e 0%, #c35257  51%, #7a3a3a  100%);
+}

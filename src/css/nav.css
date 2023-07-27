@@ -1,0 +1,77 @@
+.navbar {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #aca4b5;
+    padding: 0 20px;
+    text-decoration: none;
+    
+  }
+  
+  .logo99 {
+    font-size: 60px;
+    /* font-style:oblique; */
+    font-weight: bold;
+    text-decoration: none;
+    color: #a21717;
+    padding-right: 700px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+  #pro
+  {
+    height:4.5vh;
+    width:60px;
+  }
+
+  .navigation .disabled {
+    color: lightgray;
+    pointer-events: none;
+  }
+  
+  .nav-menu {
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    gap: 22px;
+  
+    margin-right:200px;
+    justify-content: flex-end;
+    padding-left: 10px;
+    padding-right: 0px; 
+  }
+  
+  .nav-menu li {
+    margin-right: 0px;
+    float: left;
+    justify-content: flex-start;
+    text-decoration: none;
+    
+  }
+  
+  .nav-menu li a {
+    /* justify-content: flex-start; */
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    margin-right: 0px;
+    transition: color 0.3s;
+  }
+  
+  .nav-menu li a:hover {
+    color: #777;
+  }
+  #logo-image{
+    width: 6%;
+    height: 8vh;
+    /* padding-right: px; */
+  }
+  .as
+  {
+    text-decoration: none;
+  }
+  .as1
+  {
+    text-decoration: none;
+    
+  }

@@ -1,0 +1,22 @@
+.col-sm6{
+  background : "grey";
+  text-align: center;
+  border-radius: 20px;
+  width: 30%;
+  float: left;
+  background-color: rgb(113, 113, 219);
+  width: 300px;
+  height: 600px;
+  margin-left: 60px;
+}
+.row6{
+  margin-top: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-img-top6{
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}

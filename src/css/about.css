@@ -1,0 +1,65 @@
+.Head
+{
+   text-align: center;
+   font-size:65px;
+   font-style: italic;
+   margin-top: 40px;
+   padding-top: 3px;
+}
+/* .gd
+{
+  margin-bottom: 2px;
+} */
+.abo
+{
+    background-image: url("../bbb.jpg");
+    
+    background-Repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow: auto;
+    filter: brightness(100%);
+   
+}
+.mi
+{
+    padding-left: 500px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-style: oblique;
+}
+.we
+{
+    padding-left: 550px;
+    margin-top: 30px;
+}
+.mission
+{
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 550px;
+    margin-top: 30px;
+}
+.team
+{
+   padding-left: 550px;
+   margin-top: 80px;
+}
+.Founder
+{
+    margin-top: 1px;
+    padding-left: 550px;
+}
+.con
+{
+    padding-left: 530px;
+    margin-top: 120px;
+    font-size: 23px;
+    font-style: italic;
+    padding-right: 450px;
+}
+.ar
+{
+    margin-top: 5px;
+    /* display: flex; */
+}
